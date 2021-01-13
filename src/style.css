@@ -1,0 +1,54 @@
+body {
+    color: #3dd9c9;
+}
+
+.myContainer {
+    max-width: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 2px solid rgba(51, 175, 167, 0.7);
+    border-radius: 0.25rem;
+    padding: 30px 10px 20px 30px;
+}
+
+#city_name {
+    font-size: x-large;
+}
+
+.weather_details {
+    font: 16px arial, helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+    line-height: 22px;
+    min-width: 43%;
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#temperature_details {
+    color: #3dd9c9;
+    font-size: 40px;
+}
+
+#weather_more_details {
+    font: 15px arial, helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+    float: right;
+    line-height: 20px;
+    min-width: 43%;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+#forecast {
+    padding-left: 5px;
+    padding-top: 20px;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+.icon {
+    font-size: x-large;
+    font-weight: lighter;
+}
