@@ -52,3 +52,9 @@ body {
     font-size: x-large;
     font-weight: lighter;
 }
+
+footer {
+    padding-left: 50px;
+    font-size: small;
+    color: black;
+}
